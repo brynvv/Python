@@ -2,4 +2,4 @@
 
 Examples of Python code including:
 
-1. Connection to Google API for commuting times via different modes of transport (within Alteryx Python tool)
+1. Google API for commuting times via different modes of transport (connecting via Alteryx Python tool)
