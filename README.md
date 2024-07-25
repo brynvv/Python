@@ -1,5 +1,3 @@
-# Python
-
 Useful Python code.
 
 Including:
