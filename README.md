@@ -1,4 +1,4 @@
-# Python-repo
+# Python
 
 Useful Python code.
 
